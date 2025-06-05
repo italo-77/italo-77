@@ -31,5 +31,7 @@
 
 #
 
+<div>
 <img align="right" height="100" width="100" src="https://i.ibb.co/HDksCrhY/selo-jpeg.png"/>
-
+<img align="left" height="100" src="https://i.ibb.co/4wKGzyh2/copilot-image-1749087282722.png"/>
+</div>
