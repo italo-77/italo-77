@@ -1,37 +1,52 @@
-<img align="center" width="800" src="https://i.ibb.co/HRmkSFw/removebg.png"/>
-<h1 align="center">Ôpa! Italo na área!</h1>
-<p align="center">Tô em meio a uma maratona de estudos, mas logo eu entro em campo. Compartilharei aqui alguns experimentos de código, se acharem bugs ou melhorias, <b>mandem seus pitacos! 😜</b></p>
-<h3 align="center">Contribuições sempre bem vindas! 🫡</h3>
+# 🚀 Bem-vindo ao espaço de desenvolvimento da Invictus Soluções
 
-#
+
+*Criamos ferramentas inteligentes e acessíveis para desenvolvedores que enfrentam limitações técnicas e estruturais. Nosso foco é modularidade, automação e impacto direto no fluxo de trabalho de projetos.*
+
+
+*Soluções que nascem da simplicidade, crescem com propósito e evoluem junto com a comunidade.*
+
+>  Desenvolvedor movido a propósito, focado em soluções acessíveis, automações modulares e integrações práticas entre GitHub, Render e Telegram.
+  
+
+> Acredito que grandes soluções podem nascer em ambientes limitados — com simplicidade, foco e boas ideias.
+
+---
+
+# 👤 Sobre mim
+
+> Sou apaixonado por criar ferramentas que ajudam outros devs a manterem seus projetos limpos, auditáveis e resilientes. Gosto de modularidade, validação e automação — principalmente quando tudo funciona sem a necessidade de infraestrutura robusta.
+
+**Atualmente desenvolvo e mantenho:**
+
+- Um bot no Telegram automatizado com deploy contínuo via GitHub Actions e Render
+- Um motor privado chamado Oráculo V3, dedicado à validação e organização de repositórios
+- Repositórios públicos que refletem esses módulos de forma segmentada
+
+---
+
+# 🧩 Projetos em destaque
+
+- Zelador – Oráculo V3 como repositório modular de validação e auditoria de repositórios Git
+- Oráculo Bot – Bot Telegram com integração direta ao repositório validador e deploy automatizado via Render + GitHub Actions
+
+---
+
+# 🚀 Ferramentas e tecnologias
+
 <div align="center">
-<h3>Abaixo estão meus rolos! 🤡</h3>
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=italo-77&custom_title=Minhas%20estatisticas%20no%20Git%20Hub&show_icons=true&border_radius=25&rank_icon=github&theme=tokyonight&locale=pt-br&text_color=ff8c00&title_color=fff&border_color=ff8c00"/>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </div>
 
-<div align="center">
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-</div>
+---
 
-#
+# 📈 GitHub Stats
 
 <div align="center">
-          <h4>Aqui me acharas!!!</h4>
-          <p>a verdade é que não sou muito de redes sociais, e acho o LinkedIn uma perda de tempo, mas nessas ai de vez em quando você me acha!</p>
-          <a href="https://wa.me/5537998037184?text=Github%20ta%20como%3f"><img height="50" width="50" src="https://i.ibb.co/7xqYT04Y/whatsapp.png"/></a>
-<a href="https://pin.it/1EESeHQfY"><img height="50" width="50" src="https://i.ibb.co/VWW7n9y1/pinterest.png"/></a>
-          <a href="mailto: contato@italo-fronte.online"><img height="50" width="50" src="https://i.ibb.co/0RSSvXDp/gmail.png"/></a>
-</div>
-
-#
-
-<div>
-<img align="right" height="100" width="100" src="https://i.ibb.co/HDksCrhY/selo-jpeg.png"/>
-<img align="left" height="100" src="https://i.ibb.co/4wKGzyh2/copilot-image-1749087282722.png"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=invictus-solucoes&customtitle=Minhas%20Estatísticas%20no%20GitHub&showicons=true&borderradius=25&rankicon=github&theme=tokyonight&locale=pt-br&textcolor=ff8c00&titlecolor=ffffff&border_color=ff8c00"/>
 </div>
