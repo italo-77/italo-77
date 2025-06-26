@@ -1,52 +1,38 @@
-# 🚀 Bem-vindo ao espaço de desenvolvimento da Invictus Soluções
+<h1 align="center">Invictus</h1>
+<p align="center">🧙‍♂️ Guardião de Repositórios · Cultivador de Código · Arquiteto Místico</p>
 
-
-*Criamos ferramentas inteligentes e acessíveis para desenvolvedores que enfrentam limitações técnicas e estruturais. Nosso foco é modularidade, automação e impacto direto no fluxo de trabalho de projetos.*
-
-
-*Soluções que nascem da simplicidade, crescem com propósito e evoluem junto com a comunidade.*
-
->  Desenvolvedor movido a propósito, focado em soluções acessíveis, automações modulares e integrações práticas entre GitHub, Render e Telegram.
-  
-
-> Acredito que grandes soluções podem nascer em ambientes limitados — com simplicidade, foco e boas ideias.
-
----
-
-# 👤 Sobre mim
-
-> Sou apaixonado por criar ferramentas que ajudam outros devs a manterem seus projetos limpos, auditáveis e resilientes. Gosto de modularidade, validação e automação — principalmente quando tudo funciona sem a necessidade de infraestrutura robusta.
-
-**Atualmente desenvolvo e mantenho:**
-
-- Um bot no Telegram automatizado com deploy contínuo via GitHub Actions e Render
-- Um motor privado chamado Oráculo V3, dedicado à validação e organização de repositórios
-- Repositórios públicos que refletem esses módulos de forma segmentada
+<p align="center">
+  <img alt="🧙 Feito com Copilot" src="https://img.shields.io/badge/%F0%9F%A7%99%20feito_com-Copilot-blue">
+  <img alt="🔮 Estilo Modular & Ritual" src="https://img.shields.io/badge/estilo-modular_ritual-6f42c1">
+  <img alt="🌌 Código com Clareza" src="https://img.shields.io/badge/código-clareza_rítmica-00b4d8">
+  <img alt="🌱 Refatoração é Ritual" src="https://img.shields.io/badge/refatoração-com%20intenção-228b22">
+  <img alt="🧪 Baseada em AST" src="https://img.shields.io/badge/análise-AST+semântica-0ea5e9">
+  <img alt="📦 Projeto: Oráculo CLI" src="https://img.shields.io/badge/projeto-oráculo_CLI-black">
+</p>
 
 ---
 
-# 🧩 Projetos em destaque
+### 🔮 Sobre o Oráculo
 
-- Zelador – Oráculo V3 como repositório modular de validação e auditoria de repositórios Git
-- Oráculo Bot – Bot Telegram com integração direta ao repositório validador e deploy automatizado via Render + GitHub Actions
+> Ferramenta de análise e poda de código com precisão silenciosa.  
+> Sem interface gráfica. Sem ruído. Máxima clareza.
 
----
-
-# 🚀 Ferramentas e tecnologias
-
-<div align="center">
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
+- 📦 Projeto: [github.com/invictus-solucoes/oraculo-cli](https://github.com/invictus-solucoes/oraculo-cli)
+- 🧪 Modular e extensível via micro-regras e plugins
+- 📁 Focado em estrutura, legibilidade e saúde do repositório
 
 ---
 
-# 📈 GitHub Stats
+### 🌱 Sobre mim
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=invictus-solucoes&customtitle=Minhas%20Estatísticas%20no%20GitHub&showicons=true&borderradius=25&rankicon=github&theme=tokyonight&locale=pt-br&textcolor=ff8c00&titlecolor=ffffff&border_color=ff8c00"/>
-</div>
+- 💡 Acredito que código é arquitetura viva
+- 📜 Refatoração é um ritual, não uma pressa
+- 🛠️ Crio ferramentas para devs que cuidam dos seus repositórios como jardins
+- 🤝 Aberto a colaborações com intenção, simplicidade e significado
+
+---
+
+### ✉️ Quer construir junto?
+
+Se você pensa no repositório como santuário e refatora como quem podasse um bonsai…  
+então talvez nossas estruturas queiram se cruzar.
